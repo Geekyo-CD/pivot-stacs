@@ -1,0 +1,4 @@
+name: Pivot
+allow_roles:
+  - tenant_admin
+  - tenant_member
